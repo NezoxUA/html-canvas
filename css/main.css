@@ -1,0 +1,23 @@
+body {
+	background-color: #999;
+	color: aqua;
+}
+
+h1,
+h2 {
+	text-align: center;
+}
+.title {
+	font: 700 40px "Arial", sans-serif;
+}
+.subTitle {
+	font: 500 30px "Verdana", sans-serif;
+	color: brown;
+}
+canvas {
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%);
+}
